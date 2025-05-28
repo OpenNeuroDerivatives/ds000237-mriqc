@@ -1,8 +1,0 @@
-WARNING (08/25/22 00:24:08): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.4760110.hostlist.heX6yOYr to get hosts
-starting job on c183-024
-starting job on c183-072
-starting job on c187-214
-Warning: Permanently added 'c187-214' (ED25519) to the list of known hosts.
-Warning: Permanently added 'c183-072' (ED25519) to the list of known hosts.
-Warning: Permanently added 'c183-024' (ED25519) to the list of known hosts.
